@@ -1,0 +1,7 @@
+{
+  "name": "RIVERBOT - Smart Mobile Robot Controller",
+  "description": "Futuristic mobile controller for ESP32-based IoT river cleaning robots with virtual joystick, conveyor controls, live sensors, and safety fail-safes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
